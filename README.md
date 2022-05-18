@@ -15,3 +15,9 @@ It is a work on a regression problem in which our objective is to predict the pr
 ### Expected Outcome
 * Prediction for used cars given some information about them
 * Usage of R-squared metric to quantify the accuracy of various models.
+<p align="center">
+  <img width="600" height="600" src="https://user-images.githubusercontent.com/22219089/168999278-2b88f690-db5f-485a-80fc-dac28b4af08b.jpg">
+</p>
+
+
+
