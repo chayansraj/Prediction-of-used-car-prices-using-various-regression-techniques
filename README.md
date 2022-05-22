@@ -18,7 +18,7 @@ It is a work on a regression problem in which our objective is to predict the pr
 * Achieved R-Squared of 0.97 with Support Vector Machines using defined features
 
 <p align="center">
-  <img width="600" height="600" src="https://user-images.githubusercontent.com/22219089/168999278-2b88f690-db5f-485a-80fc-dac28b4af08b.jpg">
+  <img width="610" height="600" src="https://user-images.githubusercontent.com/22219089/168999278-2b88f690-db5f-485a-80fc-dac28b4af08b.jpg">
 </p>
 
 
