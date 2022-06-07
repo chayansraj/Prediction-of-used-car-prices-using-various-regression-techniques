@@ -1,6 +1,6 @@
 # Prediction-of-used-car-prices-using-various-regression-techniques
 
-### Research Objective:
+### Research Objective :
 It is a work on a regression problem in which our objective is to predict the prices of used cars given a number of features/predictors about them. Since the target variable is a quantitative value, it is a regression problem and we will use different regression techniques to understand our target variable on the basis of given predictors. We are using a dataset from kaggle.com and the link for the dataset is: https://www.kaggle.com/kukuroo3/used-car-price-dataset-competition-format. This dataset was given to us in 4 different files in train, test format. We have clubbed it together and then used it in our models to get rid of any external bias. The dataset consists of 7632 rows and 11 variables describing different aspects of each car. It was our effort to choose a data set that does not have any NA values so this dataset is clear of that problem. The target variable is the price variable that we have to predict using different machine learning algorithms.
 
 ### Challenges
